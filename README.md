@@ -1,2 +1,2 @@
 # WEEK2
-spotify cone using MERN Stack (Internship EY GDS EDUNET AICTE)
+spotify clone using MERN Stack (Internship EY GDS EDUNET AICTE)
